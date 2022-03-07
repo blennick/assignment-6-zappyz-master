@@ -1,0 +1,8 @@
+player,images/SpaceShip.png,0
+alien,images/Alien.png,1
+asteroid,images/Asteroid.png,0
+background,images/Space_Background.png,0
+planet,images/Destroyed_Planet.png,0
+alien_ship,images/AlienShip.png,0
+title_text,images/Space_Text.png,0
+alien2,images/Alien2.png,2
